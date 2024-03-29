@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-app-api",
+  "version": "1.0.0",
+  "description": "E-Commerce App to browse the products and buy online.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/namanajmera/ecommerce-app-api.git"
+  },
+  "author": "Naman Ajmera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
